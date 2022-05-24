@@ -18,3 +18,6 @@ Guangdong Province in The State of War
 
 
 [繁体中文版](https://drive.google.com/file/d/1U6ZT2epMyfGomh_JXmQir0tVx8f86HM1/view?usp=sharing)    <- 点击下载
+
+
+[英文版字母](https://drive.google.com/file/d/1r1M_4hoPsMyEnY24S3GAdSrhHcyTcDyA/view)    <- 点击下载
