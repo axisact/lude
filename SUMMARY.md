@@ -14,9 +14,10 @@
     * [军语解释](war_mobilization_meeting/junyu.md)
 * [台湾战争](war_taiwan/README.md)
     * [告台湾同胞书](war_taiwan/gtwtbs.md)
+    * [拜登表态](war_taiwan/biden.md)
 * [独立宣言](declaration_of_independence/README.md)
     * [YaYa-中文版](declaration_of_independence/YaYa-zh.md)
     * [YaYa-English](declaration_of_independence/YaYa-us.md)
-    * [上海自救自治委员会宣言](declaration_of_independence/shzijiuzizhi.md)
-    * [个人及公民权利默认授权终止宣言](declaration_of_independence/single.md)
+    * [上海自救自治委员会](declaration_of_independence/shzijiuzizhi.md)
+    * [个人及公民权利](declaration_of_independence/single.md)
 
