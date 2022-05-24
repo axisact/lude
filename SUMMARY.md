@@ -12,6 +12,7 @@
     * [Record Part VIII](war_mobilization_meeting/Translation_Part_VIII.md)
     * [会议录音](war_mobilization_meeting/record.md)
     * [军语解释](war_mobilization_meeting/junyu.md)
+    * [详尽分析](war_mobilization_meeting/analysis.md)
 * [台湾战争](war_taiwan/README.md)
     * [告台湾同胞书](war_taiwan/gtwtbs.md)
     * [拜登表态](war_taiwan/biden.md)
