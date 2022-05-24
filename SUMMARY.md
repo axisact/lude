@@ -24,7 +24,7 @@
     * [闫丽梦-中文版](covid-19/DrLiMengYAN1-chinese.md)
 * [台湾战争](war_taiwan/README.md)
     * [告台湾同胞书](war_taiwan/gtwtbs.md)
-    * [理解人民战争](war_taiwan/people's_war_cn.md)
+    * [理解人民战争](war_taiwan/people's_war.md)
     * [拜登表态](war_taiwan/biden.md)
 * [独立宣言](declaration_of_independence/README.md)
     * [YaYa-中文版](declaration_of_independence/YaYa-zh.md)
