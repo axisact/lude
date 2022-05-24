@@ -11,7 +11,7 @@
     * [Record Part VII](war_mobilization_meeting/Translation_Part_VII.md)
     * [Record Part VIII](war_mobilization_meeting/Translation_Part_VIII.md)
     * [会议录音](war_mobilization_meeting/record.md)
-* [广东常委会扩大会议-点评](war_mobilization_meeting_analysis/README.md)    
+* [广东常委会扩大会议-中文点评](war_mobilization_meeting_analysis/README.md)    
     * [路德点评-第一部分](war_mobilization_meeting_analysis/analysis-1.md)
     * [路德点评-第二部分](war_mobilization_meeting_analysis/analysis-2.md)
     * [路德点评-第三部分](war_mobilization_meeting_analysis/analysis-3.md)
