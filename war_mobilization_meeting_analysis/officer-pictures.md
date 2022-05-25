@@ -11,7 +11,7 @@
 现展示他们的照片如下
 
 ## 周河
-![周河](https://i.ibb.co/pd6LF7t/image.jpg)
+![周河](https://i.ibb.co/pd6LF7t/image.jpg@100p)
 
 ## 黃善春
 ![黃善春](https://i.ibb.co/fCjpJf5/image.jpg)
@@ -29,6 +29,9 @@
 ![王志忠](https://i.ibb.co/FqDrS8Z/image.jpg)
 
 
-## 广东省军地联合指挥部
-![广东省军地联合指挥部](https://i.ibb.co/zHn5fvs/image.jpg)
+#### 广东省军地联合指挥部
+
+<div style="align: center">
+<img src="https://i.ibb.co/zHn5fvs/image.jpg"/>
+</div>
 
