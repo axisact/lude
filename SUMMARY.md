@@ -12,6 +12,7 @@
     * [Record Part VIII](war_mobilization_meeting/Translation_Part_VIII.md)
     * [会议录音](war_mobilization_meeting/record.md)
 * [广东常委会扩大会议-中文点评](war_mobilization_meeting_analysis/README.md)
+    * [参会人员照片](war_mobilization_meeting_analysis/officer-pictures.md)
     * [录音内容-第一部分](war_mobilization_meeting_analysis/analysis-1.md)
     * [录音内容-第二部分](war_mobilization_meeting_analysis/analysis-2.md)
     * [录音内容-第三部分](war_mobilization_meeting_analysis/analysis-3.md)
