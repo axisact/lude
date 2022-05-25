@@ -23,5 +23,12 @@
 ![王偉中](https://i.ibb.co/Ph1zj65/image.jpg)
 
 ## 張虎
-![張虎]()
+![張虎](https://i.ibb.co/r75QwhR/image.jpg)
+
+## 王志忠
+![王志忠](https://i.ibb.co/FqDrS8Z/image.jpg)
+
+
+## 广东省军地联合指挥部
+![广东省军地联合指挥部](https://i.ibb.co/zHn5fvs/image.jpg)
 
