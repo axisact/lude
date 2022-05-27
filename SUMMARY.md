@@ -28,6 +28,7 @@
     * [告台湾同胞书](war_taiwan/gtwtbs.md)
     * [理解人民战争](war_taiwan/people's_war.md)
     * [拜登表态](war_taiwan/biden.md)
+    * [布林肯演讲](war_taiwan/blinken.md)
 * [独立宣言](declaration_of_independence/README.md)
     * [YaYa-中文版](declaration_of_independence/YaYa-zh.md)
     * [YaYa-English](declaration_of_independence/YaYa-us.md)
