@@ -29,6 +29,8 @@
     * [理解人民战争](war_taiwan/people's_war.md)
     * [拜登表态](war_taiwan/biden.md)
     * [布林肯演讲](war_taiwan/blinken.md)
+    * [中共强统作战方案](war_taiwan/ccp_force.md)
+    * [中共称雄野心](war_taiwan/ccp_male.md)
 * [独立宣言](declaration_of_independence/README.md)
     * [YaYa-中文版](declaration_of_independence/YaYa-zh.md)
     * [YaYa-English](declaration_of_independence/YaYa-us.md)
