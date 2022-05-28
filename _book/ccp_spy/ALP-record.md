@@ -1,7 +1,7 @@
 # 澳洲工党选举录音
 
 
-[录音文件](https://cloud.spryservers.net/s/3aZrbkyEYMnsCYw)     <- 点击下载
+[录音文件](https://cloud.spryservers.net/s/3aZrbkyEYMnsCYw)    <- 点击下载
 
 &nbsp;
 
