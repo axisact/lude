@@ -8,7 +8,10 @@ Guangdong Province in The State of War
 
 **音频mp3文件**
 
-[中共解放军南部战区战争动员会议](https://drive.google.com/file/d/1WfvyxbWZHE9kEe2i-wiXbjPvyAhC_uW7/view?usp=sharing)    <- 点击下载
+
+地址1：[中共解放军南部战区战争动员会议](https://drive.google.com/file/d/1WfvyxbWZHE9kEe2i-wiXbjPvyAhC_uW7/view?usp=sharing)    <- 点击下载
+
+地址2：[中共解放军南部战区战争动员会议](https://cloud.spryservers.net/s/Lsd2eYFcqDCo3M5)    <- 点击下载
 
 &nbsp;
 
