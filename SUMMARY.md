@@ -1,6 +1,6 @@
 # Summary
 
-* [欢迎投稿](README.md)
+* [路德社 Lude_Meida](README.md)
 * [广东常委会扩大会议-中英文](war_mobilization_meeting/README.md)
     * [Record Part I](war_mobilization_meeting/Translation_Part_I.md)
     * [Record Part II](war_mobilization_meeting/Translation_Part_II.md)
