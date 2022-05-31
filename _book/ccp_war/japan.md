@@ -1,6 +1,6 @@
 ## 中文
 
-【日本军国主义爆料】
+【中共挑起对日战争的阴谋-以虚假”新军国主义“为借口】
 
 路德社正式公布中共“战略决胜前的策划方案”，这个录音的级别太高，公布意味着取得情报的“雷”将面临巨大的危险，权衡后决定暂不在直播公开播放。
 
@@ -22,7 +22,7 @@
 在中共几十年的“仇日教育”之下，中国老一辈仇日情节严重，年轻人从众心理强烈，当国内矛盾被政府统一指向日本，年轻可能在父母的催促下纷纷参加“抗日战争”，为中共送命。
 
 ## 日文
-【日本の軍国主義爆発】
+【日本への戦争を誘発する中国共産党の謀略 - 偽りの「新軍国主義」を口実に】
 
 路徳社はCCPの「戦略的なティーブレーカ計画プログラム」を公式に発表しましたが、この録音資料はトップ層に関わり、情報の提供者「雷」は大きな危険に直面することがあり、トレードオフして、短時間で公開しないことにしました。
 
@@ -38,7 +38,7 @@ CCPの数十年にわたる「敵の教育」の下で、中国の高齢者は�
 
 
 ## 英文
-[The explosion of militarism in Japan]
+[The Chinese Communist plot to provoke war against Japan - under the pretext of false "neo-militarism"]
 
 LUDE Media officially released the "strategic pre-decisional planning plan（战略决胜前的策划方案）" of the Chinese Communist Party,Because the voice recording is top secret, To publish it will bring the LEIs who obtained the record in great danger, After weighing, LUDE decided not to issue the voice record through the live broadcast.
 
