@@ -33,6 +33,7 @@
     * [中共称雄野心](war_taiwan/ccp_male.md)
 * [中共人民战争](ccp_war/README.md)
     * [中共挑起对日战争的阴谋-中日英](ccp_war/japan.md)
+    * [核战争与常规战争](ccp_war/nuclear_vs_conventional_war.md)
 * [独立宣言](declaration_of_independence/README.md)
     * [YaYa-中文版](declaration_of_independence/YaYa-zh.md)
     * [YaYa-English](declaration_of_independence/YaYa-us.md)
