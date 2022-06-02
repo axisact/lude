@@ -38,6 +38,6 @@
     * [上海自救自治委员会](declaration_of_independence/shzijiuzizhi.md)
     * [个人及公民权利](declaration_of_independence/single.md)
 * [路德之友图书馆](ccp_evil/README.md)
-    * [国民经济运动员](ccp_evil/gmjjydy.md)
+    * [国民经济动员](ccp_evil/gmjjdy.md)
     * [国防动员学教程](ccp_evil/gfdyxjc.md)
 
