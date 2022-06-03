@@ -19,6 +19,7 @@
     * [录音内容-第四部分](war_mobilization_meeting_analysis/analysis-4.md)
     * [军语解释](war_mobilization_meeting_analysis/junyu.md)
     * [路德社点评](war_mobilization_meeting_analysis/analysis-lude.md)
+    * [广东省军地指挥机构](war_mobilization_meeting_analysis/organization.md)
 * [病毒溯源](covid-19/README.md)
     * [DrLiMengYAN1-Report-1](covid-19/DrLiMengYAN1-Report-1.md)
     * [DrLiMengYAN1-Report-2](covid-19/DrLiMengYAN1-Report-2.md)
