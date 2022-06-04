@@ -33,6 +33,7 @@
     * [中共挑起对日战争的阴谋](ccp_war/japan.md)
     * [核战争与常规战争](ccp_war/nuclear_vs_conventional_war.md)
     * [中共称雄野心](ccp_war/ccp_male.md)
+    * [冲之鸟相关情报](ccp_war/ccp_czn.md)
 * [独立宣言](declaration_of_independence/README.md)
     * [YaYa-中文版](declaration_of_independence/YaYa-zh.md)
     * [YaYa-English](declaration_of_independence/YaYa-us.md)
@@ -41,4 +42,6 @@
 * [路德之友图书馆](library/README.md)
     * [国民经济动员](library/gmjjdy.md)
     * [国防动员学教程](library/gfdyxjc.md)
+* [路德社智库](intelligence/README.md)
+    * [上海疫情的背后阴谋](intelligence/shyqym.md)
 
