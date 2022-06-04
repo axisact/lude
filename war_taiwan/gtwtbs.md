@@ -6,7 +6,7 @@ Draft Letter to Taiwanese Compatriots from the chairman of the Central Military 
 
 &nbsp;
 
-请参照2019年发表的《告台湾同胞书》基础上予以延续修改意见
+请参照2019年发表的《告台湾同胞书》基础上予以延续修改意见。
 
 Please refer to the 2019 publication of the Letter to Taiwan Compatriots on the basis of the continuation of the revised comments
 
